@@ -1,0 +1,109 @@
+
+
+.statement {
+    display: block;
+    margin: 0 140px;
+}
+
+.conditions {
+    margin: 100px 0 0 0;
+}
+
+.conditions h1 {
+    width: 851px;
+    font-weight: 600;
+    font-size: 64px;
+    margin: 0 0 55px 0;
+}
+
+.conditions p {
+    width: 1154px;
+    margin: 0 0 25px 0;
+    font-weight: 400;
+    font-size: 17.5px;
+    line-height: 160%;
+}
+
+.conditions a {
+    text-decoration: underline;
+    color: #285CAB;
+    font-size: 18px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 160%;
+}
+
+.margindiv {
+    margin: 125px 0 0 0;
+    width: 1099px;
+}
+
+.margindiv h1 {
+    color: #285CAB;
+    font-size: 18px;
+    letter-spacing: 0.01em;
+    font-weight: bold;
+    line-height: 158.77%;
+}
+
+.datadiv {
+    margin: 25px 0 0 0;
+}
+
+.datadiv p {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 140%;
+    letter-spacing: 0.01em;
+}
+
+.agreementdiv {
+    margin: 100px 0;
+}
+
+.agreementdiv a {
+    color: #285CAB;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 158.77%;
+    letter-spacing: 0.01em;
+    text-decoration-line: underline;
+}
+
+.andmekaitsediv {
+    margin: 100px 0 0 0;
+    width: 1047px;
+}
+
+.andmekaitsediv p {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 158.77%;
+    letter-spacing: 0.01em;
+    padding: 0 0 5px 0;
+}
+
+.andmekaitsediv span {
+    text-decoration: underline;
+}
+
+.view {
+    margin: 100px 0 0 0;
+}
+
+.view h1 {
+    width: 1093px;
+    font-weight: 600;
+    font-size: 19px;
+    line-height: 158.77%;
+    letter-spacing: 0.01em;
+}
+
+.view p {
+    width: 1048px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 160%;
+    letter-spacing: 0.01em;
+}
+

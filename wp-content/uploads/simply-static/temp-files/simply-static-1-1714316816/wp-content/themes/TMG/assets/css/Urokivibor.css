@@ -1,0 +1,92 @@
+
+
+.Textblockhead {
+    display: flex;
+
+}
+.head1{
+    margin-top: 92px;
+}
+.head1 h1 {
+    width: 581px;
+    height: 77px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva', Verdana, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 64px;
+    color: #191919;
+    
+}
+.head1 p{
+    width: 599px;
+    height: 56px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva', Verdana, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    color: #285CAB;
+    margin-top: 151px; 
+
+
+}
+
+.head2 {
+    margin-left: 151px;
+    width: 494px;
+    height: 112px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva', Verdana, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    color: #000000;
+}
+.list{
+    margin-top: 24px;
+    width: 754px;
+    height: 891px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva', Verdana, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 184.27%;
+    color: #191919;
+}
+.textb{
+    width: 815px;
+    height: 66px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva', Verdana, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    color: #285CAB;
+    margin-top: 98px;
+}
+.textbla{
+    width: 560px;
+    height: 33px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva', Verdana, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    color: #000000;
+    margin-top: 98px;
+
+}
+.viborblock{
+margin-top: 36px;
+}
+.viborblock h1{
+        
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva', Verdana, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    color: #285CAB;
+    }
+.viborblock li{ 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva', Verdana, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    color: #191919;
+}
